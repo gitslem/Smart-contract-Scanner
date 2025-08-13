@@ -116,8 +116,4 @@ chmod +x start.sh
 
 10. License
 
-This README will make it **easy for anyone to clone and use your scanner** directly from GitHub.  
-
-I can also create a **ready `.env.example` file and Docker Compose** snippet you can push with this README so the setup is completely plug-and-play.  
-
-Do you want me to do that next?
+This README will make it **easy for anyone to clone and use your scanner** directly from GitHub.  #MadebyAnslem
