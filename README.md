@@ -113,7 +113,3 @@ chmod +x start.sh
 9. Contributing
 	•	Fork the repo, make changes, and submit a pull request.
 	•	Please follow TypeScript best practices and keep the code modular.
-
-10. License
-
-This README will make it **easy for anyone to clone and use your scanner** directly from GitHub.  #MadebyAnslem
